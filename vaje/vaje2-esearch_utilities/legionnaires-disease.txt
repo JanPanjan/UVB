@@ -1,0 +1,309 @@
+1. Legionnaires Disease.
+
+Brady MF(1), Awosika AO(2), Nguyen AD(3), Sundareshan V(4).
+
+In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 
+Jan–.
+2024 Feb 24.
+
+Author information:
+(1)Alpert Medical School of Brown University
+(2)University of Illinois College of Medicine
+(3)University of Queensland
+(4)SIU School of Medicine
+
+A pneumonia outbreak occurred during the 58th Annual Convention of the American 
+Legion held in Philadelphia in 1976; in 1977, Legionella pneumophila was 
+identified as the cause, and L pneumophila pneumonia was coined Legionnaires 
+disease. The aquatic L pneumophila was aerosolized from the water in the air 
+conditioning system and inhaled by the convention goers. Affected patients 
+developed syndromes ranging from a flu-like illness to multisystem organ 
+failure; 29 of the affected 182 patients died. Legionnaires disease is an 
+atypical pneumonia frequently clinically different from other bacterial 
+pneumonia. The predominant symptoms of Legionnaires disease include fever, 
+cough, dyspnea, headache, and fatigue. The incubation period of L pneumophila 
+ranges from 2 to 10 days following exposure to contaminated water. Radiographic 
+findings of L pneumophila pneumonia will vary but are frequently described as 
+patchy, fluffy, and unilobar infiltrates with a propensity to consolidate. 
+Purulent sputum, pleuritic chest pain, and pleural effusion are less frequently 
+encountered with L pneumophila pneumonia than other causes of bacterial 
+pneumonia. Although Legionnaires disease may not differ from other types of 
+community-acquired pneumonia, certain symptoms such as diarrhea and confusion 
+increase the index of suspicion for legionellosis. Laboratory abnormalities such 
+as hyponatremia, evidence of acute kidney injury, and elevations of 
+transaminases, erythrocyte sedimentation rate, or C-reactive protein may be 
+indicative of legionellosis. The diagnosis of legionellosis is based on clinical 
+features, laboratory tests, and imaging studies. Treatment of Legionnaires 
+disease comprises antibiotics effective against intracellular bacteria such as 
+fluoroquinolones, macrolides, or tetracyclines. Legionnaires disease remains a 
+critical public health concern due to its potential for outbreaks, high 
+mortality rates in untreated cases, and the challenges associated with diagnosis 
+and control. A comprehensive analysis of the genomic architecture and virulence 
+determinants of L pneumophila illuminates the intricate mechanisms underlying 
+its ability to establish intracellular infections within alveolar 
+macrophages. Ongoing research seeks to elucidate the complex interactions 
+between legionellae, their environmental niches, and human susceptibility 
+factors, aiming to develop more effective preventive strategies and 
+therapeutics. The prevention of Legionnaires disease requires proper maintenance 
+and disinfection of water systems to reduce the risk of bacterial growth and 
+exposure
+
+Copyright © 2025, StatPearls Publishing LLC.
+
+PMID: 28613558
+
+Conflict of interest statement: Disclosure: Mark Brady declares no relevant 
+financial relationships with ineligible companies. Disclosure: Ayoola Awosika 
+declares no relevant financial relationships with ineligible companies. 
+Disclosure: Andrew Nguyen declares no relevant financial relationships with 
+ineligible companies. Disclosure: Vidya Sundareshan declares no relevant 
+financial relationships with ineligible companies.
+
+
+2. Int J Neurosci. 2025 Feb;135(2):168-170. doi: 10.1080/00207454.2023.2292952. 
+Epub 2023 Dec 11.
+
+A rare cause of dysarthria: Legionnaires' disease.
+
+Afsin E(1), Küçük F(1), Yıldız S(2), Ersoy S(2).
+
+Author information:
+(1)Department of Chest Diseases, Abant Izzet Baysal University Hospital, Bolu, 
+Turkey.
+(2)Department of Neurology, Abant Izzet Baysal University Hospital, Bolu, 
+Turkey.
+
+PURPOSE/AIM OF THE STUDY: A case admitted with dysarthria and syncope and 
+hyperintense lesion in the splenium of the corpus callosum, diagnosed as 
+Legionnaires' disease by detecting Legionella antigen in the urine, and 
+recovered only with antibiotic treatment is presented because it is rare in the 
+literature.
+MATERIALS AND METHODS: When a 64-year-old female patient was admitted to the 
+emergency department with complaints of sudden loss of consciousness and 
+fainting at home, she had speech impairment, and her pulse oxygen saturation in 
+room air was 88%. In the neurological examination, there was no pathological 
+finding except dysarthria in the patient with no motor deficit. The patient had 
+no respiratory complaints and had a recent travel history. In laboratory 
+examinations, hyponatremia was detected with increased C-reactive protein and 
+liver enzymes. Consolidation was observed in the lower right zone on chest 
+computed tomography. Ampicillin + sulbactam (4x1 gr, intravenous) and 
+clarithromycin (2 × 500 mg orally) were initiated. On cranial magnetic 
+resonance, a hyperintense lesion was observed in the splenium of the corpus 
+callosum in the oval T2 sequence. Legionella pneumophila serogroup 1 antigen in 
+urine was reported as positive. On the fourth day of her hospitalization, the 
+patient, whose CRP and liver enzyme values regressed, her hyponatremia improved, 
+her pulse oxygen saturation increased to 92% in room air, and her speech became 
+comprehensible, was discharged after oral antibiotic treatment was arranged. On 
+the 12th day, the speech ability of the patient completely returned to normal.
+CONCLUSION: Legionella infection should be suspected in the presence of 
+pneumonia and corpus callosum splenium lesion.
+
+DOI: 10.1080/00207454.2023.2292952
+PMID: 38060476 [Indexed for MEDLINE]
+
+
+3. Am J Transplant. 2025 Jan;25(1):7-8. doi: 10.1016/j.ajt.2024.11.006. Epub 2024
+ Nov 14.
+
+Two outbreaks of Legionnaires disease associated with outdoor hot tubs for 
+private use-two cruise ships, November 2022-July 2024.
+
+Pereira MR.
+
+DOI: 10.1016/j.ajt.2024.11.006
+PMID: 39547515
+
+
+4. Intensive Care Med. 2025 Jan 7. doi: 10.1007/s00134-024-07768-y. Online ahead
+of  print.
+
+Spontaneous pulmonary-twist secondary to Legionnaire's disease.
+
+Cunat S(1), Matau C(2), Olland A(3)(4), Demiselle J(5)(6).
+
+Author information:
+(1)Department of Medical Intensive Care, University Hospital of Strasbourg, 
+Nouvel Hôpital Civil, Strasbourg, France.
+(2)Chest diseases department, Strasbourg University Hospital and University of 
+Strasbourg, Strasbourg, France.
+(3)Pneumology Unit and Strasbourg Lung Transplant Program, University Hospital 
+of Strasbourg, Strasbourg, France.
+(4)INSERM (French National Institute of Health and Medical Research), UMR 1260, 
+Regenerative Nanomedicine (RNM), FMTS, Strasbourg, France.
+(5)Department of Medical Intensive Care, University Hospital of Strasbourg, 
+Nouvel Hôpital Civil, Strasbourg, France. Julien.demiselle@chru-strasbourg.fr.
+(6)INSERM (French National Institute of Health and Medical Research), UMR 1260, 
+Regenerative Nanomedicine (RNM), FMTS, Strasbourg, France. 
+Julien.demiselle@chru-strasbourg.fr.
+
+DOI: 10.1007/s00134-024-07768-y
+PMID: 39774856
+
+Conflict of interest statement: Declarations. Conflicts of interest: The authors 
+declare to have no conflict of interest related to this work. Informed consent: 
+The patient gave his written informed consent for publication of his medical 
+history and related iconography.
+
+
+5. Cureus. 2024 Dec 15;16(12):e75773. doi: 10.7759/cureus.75773. eCollection 2024
+ Dec.
+
+Hippocampal Sclerosis After Legionnaires' Disease: A Case Report.
+
+Ikenouchi A(1)(2), Ide S(3), Hayasaki G(1), Adachi H(4), Yoshimura R(1).
+
+Author information:
+(1)Department of Psychiatry, University of Occupational and Environmental 
+Health, Japan, Kitakyushu, JPN.
+(2)Medical Center for Dementia, Hospital of the University of Occupational and 
+Environmental Health, Japan, Kitakyushu, JPN.
+(3)Department of Radiology, University of Occupational and Environmental Health, 
+Japan, Kitakyushu, JPN.
+(4)Department of Neurology, University of Occupational and Environmental Health, 
+Japan, Kitakyushu, JPN.
+
+Legionnaires' disease is a form of atypical pneumonia that can present with 
+neurological symptoms, such as headaches, seizures, and focal neurological 
+abnormalities. We report the case of a male patient who developed impaired 
+consciousness and recurrent seizures following pneumonia caused by Legione lla. 
+The patient received antibiotics and antiepileptic treatment and was discharged 
+on hospital day 56. He was diagnosed with hippocampal sclerosis 10 months later. 
+To our knowledge, this is the first reported case of hippocampal sclerosis 
+following Legionnaires' disease globally. Clinicians should be aware of the risk 
+of hippocampal sclerosis after Legionnaires' disease.
+
+Copyright © 2024, Ikenouchi et al.
+
+DOI: 10.7759/cureus.75773
+PMCID: PMC11733525
+PMID: 39816309
+
+Conflict of interest statement: Human subjects: Consent for treatment and open 
+access publication was obtained or waived by all participants in this study. 
+Conflicts of interest: In compliance with the ICMJE uniform disclosure form, all 
+authors declare the following: Payment/services info: All authors have declared 
+that no financial support was received from any organization for the submitted 
+work. Financial relationships: All authors have declared that they have no 
+financial relationships at present or within the previous three years with any 
+organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.
+
+
+6. Hosp Pharm. 2025 Feb 13:00185787251319309. doi: 10.1177/00185787251319309. 
+Online ahead of print.
+
+Legionnaire's Disease Beyond the Lungs: A Rare Case of Severe Rhabdomyolysis and 
+Acute Kidney Injury from a Possible Vaping Source.
+
+Wells DA(1)(2), Eick J(1).
+
+Author information:
+(1)Methodist Le Bonheur Healthcare - University Hospital, Memphis, TN, USA.
+(2)University of Tennessee Health Science Center, Memphis, TN, USA.
+
+Legionnaires' disease (LD), caused by Legionella pneumophila, often presents 
+with pneumonia, gastrointestinal symptoms, and confusion. Severe LD can lead to 
+a triad of pneumonia, rhabdomyolysis, and acute kidney injury (AKI), with less 
+common complications such as liver injury. We report a case of a 32-year-old 
+male with no prior medical history who presented with LD complicated by severe 
+rhabdomyolysis, AKI requiring hemodialysis (HD), and acute liver injury. The 
+patient reported 6 days of gastrointestinal symptoms, reduced mobility, and 
+minimal urine output. The patient also reported a history of vaping. Diagnostic 
+imaging revealed pneumonia and enterocolitis, while laboratory findings included 
+leukocytosis, hyponatremia, significantly elevated creatinine kinase 
+(201 000 U/L), and acute transaminitis. A positive Legionella urine antigen 
+confirmed the diagnosis. Initial treatment with azithromycin for 7 days showed 
+partial improvement; however, clinical and laboratory deterioration necessitated 
+a switch to levofloxacin for an additional 7 days. This case highlights rare, 
+severe multi-organ involvement in LD, with rhabdomyolysis and AKI being 
+particularly pronounced. The possible association between vaping and Legionella 
+infection is explored, given the patient's history of vaping and limited prior 
+documentation of such a link. Prompt recognition, accurate diagnosis, and 
+escalation of therapy are critical in managing severe LD and reducing associated 
+morbidity.
+
+© The Author(s) 2025.
+
+DOI: 10.1177/00185787251319309
+PMCID: PMC11826814
+PMID: 39959185
+
+Conflict of interest statement: The author(s) declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article.
+
+
+7. CMAJ. 2025 Feb 17;197(6):E155-E158. doi: 10.1503/cmaj.241086.
+
+Legionnaires' disease following lake swimming in Iowa.
+
+Bryson A(1), Shepertycky M(2), Wuerz T(2), Lagacé-Wiens P(2).
+
+Author information:
+(1)Department of Internal Medicine (Bryson, Shepertycky, Wuerz), and Department 
+of Community Health Sciences (Wuerz), University of Manitoba; Clinical 
+Microbiology (Lagacé-Wiens), Shared Health Diagnostic Services, Winnipeg, Man. 
+brysona3@myumanitoba.ca.
+(2)Department of Internal Medicine (Bryson, Shepertycky, Wuerz), and Department 
+of Community Health Sciences (Wuerz), University of Manitoba; Clinical 
+Microbiology (Lagacé-Wiens), Shared Health Diagnostic Services, Winnipeg, Man.
+
+DOI: 10.1503/cmaj.241086
+PMCID: PMC11835457
+PMID: 39965810
+
+Conflict of interest statement: Competing interests:: Terence Wuerz reports 
+honoraria from GSK for a shingles vaccine presentation to a family physician 
+group in Winnipeg. Dr. Wuerz is clerkship evaluations director, Undergraduate 
+Medical Education, Max Rady College of Medicine, University of Manitoba. No 
+other competing interests were declared.
+
+
+8. Front Med (Lausanne). 2025 Feb 5;12:1501192. doi: 10.3389/fmed.2025.1501192. 
+eCollection 2025.
+
+Case report: The value of early application of mNGS technology in the diagnosis 
+and treatment of severe Legionnaires' disease: reports of two cases with 
+different outcomes.
+
+Fang J(#)(1), Wang Z(#)(1), Shen Y(2), Wu X(1), Fang H(3), Sun X(1), Yu T(1), 
+Zhang Q(1).
+
+Author information:
+(1)Department of Respiratory and Critical Care Medicine, Hangzhou Linping 
+Hospital of Traditional Chinese Medicine, Hangzhou, China.
+(2)Department of Ultrasound Medicine, Hangzhou Linping Hospital of Traditional 
+Chinese Medicine, Hangzhou, China.
+(3)Department of Intensive Care Medicine, Hangzhou Linping Hospital of 
+Traditional Chinese Medicine, Hangzhou, China.
+(#)Contributed equally
+
+BACKGROUND: Legionnaires' disease has a high clinical mortality rate, and early 
+diagnosis and treatment are critical. Increasing evidence shows that metagenomic 
+next-generation sequencing (mNGS) has excellent potential for the early 
+identification of pathogens. To help clinicians better recognize Legionnaires' 
+disease in its early stage and to illustrate the diagnostic value of mNGS 
+technology, we reviewed and summarized two cases of severe Legionnaires' 
+disease.
+METHODS AND ANALYSIS: We selected two patients with severe Legionnaires' disease 
+who were admitted to our department in recent years. We discuss experience with 
+them and the shortcomings in their treatment by summarizing their medical 
+history, disease evolution, tests, and diagnostic and therapeutic processes.
+RESULTS: In both patients, the diagnosis of Legionnaires' disease was confirmed 
+through analysis of the bronchoalveolar lavage fluid (BALF). The middle-aged 
+male patient was cured and discharged due to early detection and diagnosis. The 
+elderly immunocompromised patient died due to a delay in diagnosis.
+CONCLUSION: This study highlights the importance of the early recognition and 
+diagnosis of severe Legionnaires' disease and the advantages of mNGS in 
+identifying the pathogen.
+
+Copyright © 2025 Fang, Wang, Shen, Wu, Fang, Sun, Yu and Zhang.
+
+DOI: 10.3389/fmed.2025.1501192
+PMCID: PMC11835848
+PMID: 39975683
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

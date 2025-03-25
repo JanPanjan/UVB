@@ -1,0 +1,100 @@
+ 1440  ls
+ 1441  eling -name --help
+ 1442  elink -name --help
+ 1443  elink name --help
+ 1444  elink --help
+ 1445  man elink
+ 1446  einfo -db gene -links 
+ 1447  esearch -db gene -query "3043[UID]" | elink -target nuccore -name gene_nuccore_refseqrna | efetch -format gbc
+ 1448  esearch -db gene -query "3043[UID]" | elink -target nuccore -name gene_nuccore_refseqrna | efetch -format gbc | xtract -pattern INSDSeq -element INSDSeq_locus INSDSeq_length
+ 1449  ls
+ 1450  touch genids.txt
+ 1451  cat > genids.txt
+ 1452  cat genids.txt 
+ 1453  cat genids.txt | epost -db gene -format uid
+ 1454  cat genids.txt | epost -db gene -format uid | elink -target nuccore -name gene_nuccore_refseqrna | efetch -format gbc | xtract -pattern INSDSeq -element INSDSeq_locus INSDSeq_length
+ 1455  clea
+ 1456  clear
+ 1457  efetch -db nucleotide -format fasta -query "mhc roe deer"
+ 1458  esearch -db nucleotide -query "mhc roe deer"
+ 1459  esearch -db nucleotide -query "mhc roe deer" |efetch -format fasta
+ 1460  esearch -db nucleotide -query "mhc roe deer" |efetch -format fasta > mhc-roe-deer.fasta
+ 1461  esearch -db nucleotide -query "mhc roe deer" |efetch -format fasta > mhc-roe-deer.fasta | xtract -pattern INSDSeq -element INSDSeq_locus INSDSeq_length
+ 1462  esearch -db nucleotide -query "mhc roe deer" |efetch -format fasta | xtract -pattern INSDSeq -element INSDSeq_locus INSDSeq_length
+ 1463  esearch -db nucleotide -query "mhc roe deer" |efetch -format fasta > mhc-roe-deer.fasta
+ 1464  cat mhc-roe-deer.fasta 
+ 1465  python
+ 1466  nvim mhc-roe-deer.fasta 
+ 1467  esearch -db pubmed -query MN370579.1
+ 1468  esearch -db pubmed -query MN370579.1 |q
+ 1469  esearch -db pubmed -query MN370579.1 |efetch -format abstract
+ 1470  esearch -db pubmed -query MN370579.1 |efetch -format gbc
+ 1471  esearch -db pubmed -query MN370579.1 |efetch -format gb
+ 1472  efetch -help
+ 1473  esearch -db pubmed -query "MN370579.1"
+ 1474  esearch -db nucleotide -query "MN370579.1"
+ 1475  esearch -db nucleotide -query "MN370579.1" |efetch -format abstract
+ 1476  esearch -db nucleotide -query "MN370579.1" |efetch -format gbc
+ 1477  esearch -db nucleotide -query "MN370579.1" |efetch -format abstract
+ 1478  xtract -help
+ 1479  xtract -examples
+ 1480  esearch -db nucleotide -query "MN370579.1" |efetch -format gbc | xtract -pattern PubmedArticle
+ 1481  esearch -db nucleotide -query "MN370579.1" |efetch -format gbc | xtract -pattern PubmedArticle -element Title
+ 1482  ls
+ 1483  grep -c ">" mhc-roe-deer.fasta 
+ 1484  esearch -db nucleotide -query "MN370579.1" |efetch -format abstract
+ 1485  esearch -db nucleotide -query "MN370579.1" |efetch -format abstract | grep -i "article"
+ 1486  esearch -db nucleotide -query "MN370579.1" |efetch -format abstract | grep "ARTICLE"
+ 1487  grep --help
+ 1488  esearch -db nucleotide -query "MN370579.1" |efetch -format abstract > mn370579-1.abstract
+ 1489  grep -e "ARTICLE" mn370579-1.abstract 
+ 1490  cat mn370579-1.abstract 
+ 1491  grep -ei "journal" mn370579-1.abstract 
+ 1492  grep -i "journal" mn370579-1.abstract 
+ 1493  grep -i -v "journal" mn370579-1.abstract 
+ 1494  esearch -db nucleotide LC707984.1
+ 1495  esearch -db nucleotide -query LC707984.1
+ 1496  esearch -db nucleotide -query LC707984.1 | efetch -format abstract
+ 1497  esearch -db nucleotide -query LC707984.1 | efetch -format abstract | grep -i "region"
+ 1498  history 50 > his.txt
+ 1499  cat his.txt 
+ 1500  efetch -db nucleotide -id MN370579.1
+ 1501  efetch -db nucleotide -id MN370579.1 -format abstract
+ 1502  efetch -db nucleotide -id MN370579.1 -format docsum
+ 1503  efetch -db nucleotide -id MN370579.1 -format docsum |xtract -pattern DocumentSummary -element Title
+ 1504  efetch -db nucleotide -id MN370579.1 -format docsum |xtract -pattern DocumentSummary -element Title,PubMedIds
+ 1505* efetch -db nucleotide -id MN370579.1 -format docsum | xt¸[Bract -pattern DocumentSummary -element Title,PubMedIds | efetch -db pubmed -id $(cut -d "<" -f 3 | cut -d ">" -f 2) -format abstract
+ 1506  efetch -db nucleotide -id LC707984.1
+ 1507  efetch -db nucleotide -id LC707984.1 -format abstract
+ 1508  efetch -db nucleotide -id LC707984.1 -format docsum
+ 1509  efetch -db nucleotide -id LC707984.1 -format docsum |xtract -pattern DocumentSummary -element Organism
+ 1510  efetch -db nucleotide -id LC707984.1 -format docsum |xtract -pattern DocumentSummary -element Organism,Title
+ 1511  efetch -db nucleotide -id LC707984.1 -format docsum |xtract -pattern DocumentSummary -element Statistics
+ 1512  efetch -db nucleotide -id LC707984.1 -format docsum |xtract -pattern DocumentSummary -element MolType
+ 1513  efetch -db nucleotide -id LC707984.1 -format docsum |xtract -pattern DocumentSummary -element Statistics
+ 1514  efetch -db nucleotide -id LC707984.1 -format docsum |xtract -pattern DocumentSummary -element Title
+ 1515  efetch -db nucleotide -id LC707984.1 -format abstract |xtract -pattern DocumentSummary -element Title
+ 1516  efetch -db nucleotide -id LC707984.1 -format abstract
+ 1517  efetch -db nuccore -id LC707984.1 -format abstract
+ 1518  efetch -db nuccore -id ABA21534.1 -format fasta > aba21534-1.fasta
+ 1519  efetch -db protein -id ABA21534.1 -format fasta > aba21534-1.fasta
+ 1520  cat aba21534-1.fasta 
+ 1521  efetch -db nuccore -id NC_001501 -format fasta
+ 1522  efetch -db nuccore -id NC001501 -format fasta
+ 1523  efetch -db pubmed -query "legionnaires disease [TITL]"
+ 1524  esearch -db pubmed -query "legionnaires disease [TITL]"
+ 1525  esearch -db pubmed -query "legionnaires disease [TITL]" |efilter -days 90
+ 1526  esearch -db pubmed -query "legionnaires disease [TITL]" |efilter -days 90 | efetch -format abstract
+ 1527  esearch -db pubmed -query "legionnaires disease [TITL]" |efilter -days 90 | efetch -format abstract > legionnaires-disease.txt
+ 1528  esearch -db pubmed -query "legionnaires disease [TITL] AND 90:365[PDAT]" | efetch -format abstract > legionnaires-disease.txt
+ 1529* cat legionnaires-disease.txt
+ 1530  esearch -db pubmed -query "legionnaires disease [TITL] AND 90:365[PDAT]"
+ 1531  esearch -db pubmed -query "legionnaires disease [TITL] AND 90[PDAT]"
+ 1532  esearch -db pubmed -query "legionnaires disease[TITL] AND 90:365[PDAT]" | efetch -format abstract > legionella_abstracts.txt
+ 1533  ls
+ 1534  cat legionella_abstracts.txt 
+ 1535  rm legionella_abstracts.txt 
+ 1536  esearch -db pubmed -query "legionnaires disease [TITL]" |efilter -days 90 | efetch -format abstract > legionnaires-disease.txt
+ 1537  cat legionnaires-disease.txt 
+ 1538  esearch -db pubmed -query "legionnaires disease [TITL]" |efilter -days 90 | efetch -format medline
+ 1539  history 100 > his.txt
