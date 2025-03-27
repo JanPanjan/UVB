@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "biopython>=1.85",
+    "ipykernel>=6.29.5",
 ]
