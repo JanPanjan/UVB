@@ -1,5 +1,5 @@
 from Bio.Seq import Seq, MutableSeq
-# from Bio.SeqUtils import gc_fraction # NEDELA
+from Bio.SeqUtils import gc_fraction
 
 # ustvarimo sequence
 seq = Seq("AGTACACTGGT")
@@ -44,10 +44,10 @@ print(
     reverse komplement {seq}: {rev_compl} """
 )
 
-# # GC content NEDELA
-# gc = (seq.count("G") + seq.count("C")) / len(seq)
-# gc_bio = gc_fraction(seq)
-# print(f"gc: {gc}, gc_fraction: {gc_bio}")
+# GC content NEDELA
+gc = (seq.count("G") + seq.count("C")) / len(seq)
+gc_bio = gc_fraction(seq)
+print(f"gc: {gc}, gc_fraction: {gc_bio}")
 
 # konkatenacija zaporedij
 list_of_seqs = [Seq("AAA"), Seq("CCC"), Seq("GGTT")]
