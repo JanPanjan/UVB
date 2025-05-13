@@ -22,7 +22,7 @@ A Markov chain is a data structure that contains a start sate, a finite discrete
 
 The process occupies one state at a time and remains in that state or moves to another allowable state.
 
-### Example of a nucleotide alignment of human and mouse beta globin
+## Example of a nucleotide alignment of human and mouse beta globin
 
 Focus on the position at which a T residue in human is aligned with a C residue in mouse
 

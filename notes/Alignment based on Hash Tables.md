@@ -1,8 +1,6 @@
-One of approaches of [[Aligning NGS reads to a reference genome]]. 
+One of approaches of [[BLAST#3. Aligning NGS reads to a reference genome|aligning NGS reads to a reference genome]].
 
 ![[Pasted image 20250506172559.png]]
-
----
 
 Hash table indexing adopts the seed-and-extend strategy that [[BLAST]] uses. Two inputs:
 

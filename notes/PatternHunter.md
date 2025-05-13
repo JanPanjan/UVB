@@ -1,6 +1,6 @@
 *PatternHunter* uses **nonconsecutive** seeds to boost sensitivity.
 
----
+## Improvement over BLAST
 
 Downside of a [[BLAST#^a458d1|BLASTN]] search is that it uses a seed typically consisiting of a word size of **11 consecutive nucleotides**. Exact matches are identified in a DNA database and extended into longer alignments. 
 

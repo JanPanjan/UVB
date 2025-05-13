@@ -6,7 +6,7 @@
 
 ### 1. Defining a pattern
 
-A [[BLAST#^1693a8]] search of bacterial sequences using human RBP4 (`NP_006735`) as query in the refseq database gives (in 2015) **7 significant hits** with small $E-$values. 
+A [[BLAST#^1693a8|BLASTP]] search of bacterial sequences using human RBP4 (`NP_006735`) as query in the refseq database gives (in 2015) **7 significant hits** with small $E-$values. 
 
 > From past experiments and literature, we know there are a lot more bacterial lipocalins distantly related to our query.
 

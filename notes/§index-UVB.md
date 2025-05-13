@@ -19,6 +19,11 @@
 <br>
 
 2. [[Multiple sequence alignment]]
+	1. [[Introduction to Multiple Sequence Alignment]]
+	2. [[Five main approaches to MSA]]
+	3. [[Databases of Multiple Sequence Alignments]]
+	4. [[Benchmarking studies of Multiple Sequence Alignment]]
+	5. [[Multiple Sequence Alignments of genomic regions]]
 
 ---
 

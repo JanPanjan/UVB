@@ -1,4 +1,4 @@
-The other method of [[Aligning NGS reads to a reference genome]].
+The other method of [[BLAST#3. Aligning NGS reads to a reference genome|aligning NGS reads to a reference genome]].
 
 This aproach is faster than using [[Alignment based on Hash Tables]]. It's done using suffix trees or suffix arrays.
 

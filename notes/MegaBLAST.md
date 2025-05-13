@@ -2,8 +2,6 @@ Optimized for rapid alignment of very large DNA queries.
 
 ![[Pasted image 20250506160912.png]]
 
----
-
 ## Word size parameter
 
 Default word size is 28 and can be as large as 256 (in contrast to default word size of 11 of [[BLAST#^a458d1|BLASTN]]). 

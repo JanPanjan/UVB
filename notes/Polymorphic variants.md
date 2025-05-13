@@ -1,0 +1,1 @@
+Related [[Proteini in peptidi|protein]] sequences within a **population**.

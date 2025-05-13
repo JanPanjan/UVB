@@ -1,0 +1,1 @@
+Notes should be used together with the ones in [this repository](https://github.com/JanPanjan/BKEM.git).
