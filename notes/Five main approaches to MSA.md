@@ -1,5 +1,0 @@
-1. [[Exact approaches to MSA|Exact approaches]]
-2. [[Progressive Sequence Alignment]]
-3. [[Iterative approaches to MSA|Iterative approaches]]
-4. [[Consistency-Based approaches to MSA|Consistency-Based approaches]]
-5. [[Structure-Based Methods to MSA|Structure-Based Methods]]

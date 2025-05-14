@@ -5,24 +5,22 @@
 - TBLASTN
 - TBLASTX
 
----
+A typical BLAST search outputs [[E-values]], [[Bit scores]] and [[Raw similarity scores]]. 
 
-## Specialized (organism specific) BLAST sites:
+# Specialized (organism specific) BLAST sites:
 
 ==Ensembl==  of Welcome Trust Sanger Institute (WTSI) & European Bioinformatics Institute (EBI). Mainly for studying the **human genome**.
 Its benefit is also that the output shows location of database matches by chromosome and an alignment summary with emphasis on genomic loci
 
 ==Welcome Trust Sanger Institute==  with support for over 100 organisms. Also has servers for *Vertebrate Genome Annotation (VEGA)* project for human, chimpanzee, mouse, rat, dog, pig, zebrafish... genomes
 
----
+# Downsides of a normal BLAST search
 
-## Downsides of a normal BLAST search
+## 1. Doesn't recognize distantly related proteins
 
-### 1. Doesn't recognize distantly related proteins
+Although PAM250 is a superior scoring matrix for distantly [[Homologs|related proteins]], many of them are too distantly related to a query to be detected by a standard BLAST search. And those that are detected get quetionable E-values.
 
-> Although PAM250 is a superior scoring matrix for distantly [[Homologs|related proteins]], many of them are too distantly related to a query to be detected by a standard BLAST search. And those that are detected get quetionable E-values.
->
-> *Many homologous proteins have small sequence identity. They may have the same 3D structures based on methods such as X-ray cristallography, but they don't appear to share similarity in pairwise alignments.*
+> Many homologous proteins have small sequence identity. They may have the same 3D structures based on methods such as X-ray cristallography, but they don't appear to share similarity in pairwise alignments.
 
 Specialized variants that fix this issue:
 
@@ -34,15 +32,12 @@ Specialized variants that fix this issue:
 | [[PHI-BLAST]]                 | [[Amino acid residue pattern\|pattern]] specific searches                        |
 | [[Hidden Markov Models\|HMM]] | profile searches based on probabilites                                           |
 
-### 2. Difficult to search genomic DNA databases
+## 2. Difficult to search genomic DNA databases
 
-> The genomic DNA includes both exons and introns. Ideally an alignment tool should find the exons.
->
-> Genomic DNA usually has sequencing errors that should be taken into account.
-> 
-> Algorithms should detect genomics changes (deletions, duplications, inversions, translocations) and find a significant alignment.
-> 
-> Algorithms should be able to find small differences between DNA sequences (e.g. SNPs).
+- The genomic DNA includes both exons and introns. Ideally an alignment tool should find the exons.
+- Genomic DNA usually has sequencing errors that should be taken into account.
+- Algorithms should detect genomics changes (deletions, duplications, inversions, translocations) and find a significant alignment.
+- Algorithms should be able to find small differences between DNA sequences (e.g. SNPs).
 
 
 Specialized variants that fix this issue:
@@ -57,7 +52,7 @@ Specialized variants that fix this issue:
 | [[LAGAN]]                   | global alignment tool that utilizes local alignments                 |
 | [[SSAHA2]]                  | utilizes a hash-table to search a large genomic DNA database quickly |
 
-### 3. Aligning NGS reads to a reference genome
+## 3. Aligning NGS reads to a reference genome
 
 When we sequence a haploid human genome, which has about 3 billion bases, it is neccessary to obtain **adequate depth of coverage** (such as an *average of 30-fold redundancy for each base*) to have reliable base calls.
 

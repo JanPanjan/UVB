@@ -20,7 +20,10 @@
 
 2. [[Multiple sequence alignment]]
 	1. [[Introduction to Multiple Sequence Alignment]]
-	2. [[Five main approaches to MSA]]
+	2. [[Five main approaches to Multiple Sequence Alignment]]
+		1. [[Exact approaches to MSA]]
+		2. [[Non-exact approaches to MSA]]
+			1. [[ClustalW algorithm]]
 	3. [[Databases of Multiple Sequence Alignments]]
 	4. [[Benchmarking studies of Multiple Sequence Alignment]]
 	5. [[Multiple Sequence Alignments of genomic regions]]

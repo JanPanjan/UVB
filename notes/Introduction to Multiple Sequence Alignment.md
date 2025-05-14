@@ -79,3 +79,7 @@ Most protein families also have distantly related proteins. MSA is **far more se
 Each human genome harbours about 11'000 nonsynonymous single-nucleotide variants of which about 300 are predicted to be *deleterious*.
 
 Algorithms that predict whether variants are harmful often rely on MSAs, since deleterious vaiants tend to occur at more conserved positions.
+
+---
+
+Check more about MSA [[Multiple sequence alignment|here]].
