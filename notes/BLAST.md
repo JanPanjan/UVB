@@ -5,7 +5,7 @@
 - TBLASTN
 - TBLASTX
 
-A typical BLAST search outputs [[E-values]], [[Bit scores]] and [[Raw similarity scores]]. 
+A typical BLAST search outputs [[E-value|E-values]], [[Bit scores]] and [[Raw similarity scores]]. 
 
 # Specialized (organism specific) BLAST sites:
 

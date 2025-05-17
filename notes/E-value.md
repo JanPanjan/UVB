@@ -1,6 +1,6 @@
 The expect value tells us the *estimated* number of [[High scoring segment pairs|HSPs]] having some [[Raw similarity scores|raw score]] (or better) assigned to it by **chance alone**. 
 
-> In other words, how many false positive hits the search generated.
+> How many false positive hits the search generated.
 
 It's defined as:
 
@@ -36,3 +36,13 @@ $$
 The $p$ value is the probability of a chance alignment occuring with the assigned score or better. 
 
 It's calculated by relating the [[Raw similarity scores|raw (observed) score]] $S$ to the expected distribution of [[High scoring segment pairs|HSP scores]] from comparisons of **random sequences** of the **same length** and **composition** as the query.
+
+$p$ and $E-$values are different ways of representing the significance of the alignment. The probability of finding a HSP with a given $E-$value is
+
+$$
+p = 1 - e^{-E}
+$$
+
+The two measures are **almost identical**, especially for small values associated with strong database matches. An advantage to using $E$ rather than $p-$values is that **they're easier to think with** :3
+
+![[Pasted image 20250516131016.png]]
